@@ -10,6 +10,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		README.md = README.md
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Car", "Car\Car.csproj", "{33D1C917-66D4-4301-BD53-0C186920F3D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarTests", "CarTests\CarTests.csproj", "{4663ACE8-5245-49BE-93A5-412F0E0609F6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -20,6 +24,14 @@ Global
 		{5B1831D8-A0A0-4588-B861-7310774576D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5B1831D8-A0A0-4588-B861-7310774576D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5B1831D8-A0A0-4588-B861-7310774576D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33D1C917-66D4-4301-BD53-0C186920F3D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33D1C917-66D4-4301-BD53-0C186920F3D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33D1C917-66D4-4301-BD53-0C186920F3D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33D1C917-66D4-4301-BD53-0C186920F3D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4663ACE8-5245-49BE-93A5-412F0E0609F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4663ACE8-5245-49BE-93A5-412F0E0609F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4663ACE8-5245-49BE-93A5-412F0E0609F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4663ACE8-5245-49BE-93A5-412F0E0609F6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

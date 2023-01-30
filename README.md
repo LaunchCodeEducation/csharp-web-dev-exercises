@@ -1,4 +1,4 @@
-﻿# Exercises Starter Codex for C# Web Development
+﻿# Exercises Starter Code for C# Web Development
 
 These projects cover the first 7 lessons of unit 2 of LaunchCode's C# Web Development.
 This is the second unit to LaunchCode's Web Development programs.
