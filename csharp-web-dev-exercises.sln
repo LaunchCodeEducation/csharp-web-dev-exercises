@@ -20,6 +20,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionaries", "Dictionarie
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConditionalsAndCollections", "ConditionalsAndCollections\ConditionalsAndCollections.csproj", "{3EA3E686-1556-4948-A500-2A1C5F3D8667}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes-Part-2", "Classes-Part-2\Classes-Part-2.csproj", "{FB9669AF-7F8B-401B-A1E0-95BFFA4A18C1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -50,6 +52,10 @@ Global
 		{3EA3E686-1556-4948-A500-2A1C5F3D8667}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3EA3E686-1556-4948-A500-2A1C5F3D8667}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3EA3E686-1556-4948-A500-2A1C5F3D8667}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB9669AF-7F8B-401B-A1E0-95BFFA4A18C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB9669AF-7F8B-401B-A1E0-95BFFA4A18C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB9669AF-7F8B-401B-A1E0-95BFFA4A18C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB9669AF-7F8B-401B-A1E0-95BFFA4A18C1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
