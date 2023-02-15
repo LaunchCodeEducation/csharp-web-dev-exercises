@@ -10,6 +10,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		README.md = README.md
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IceCreamShop", "IceCreamShop\IceCreamShop.csproj", "{A2249F0D-A1DC-42CF-A351-AF089ED9F34C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -20,6 +22,10 @@ Global
 		{5B1831D8-A0A0-4588-B861-7310774576D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5B1831D8-A0A0-4588-B861-7310774576D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5B1831D8-A0A0-4588-B861-7310774576D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2249F0D-A1DC-42CF-A351-AF089ED9F34C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2249F0D-A1DC-42CF-A351-AF089ED9F34C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2249F0D-A1DC-42CF-A351-AF089ED9F34C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2249F0D-A1DC-42CF-A351-AF089ED9F34C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
