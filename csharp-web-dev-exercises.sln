@@ -19,6 +19,7 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionaries", "Dictionaries\Dictionaries.csproj", "{AC5677B1-EAFD-41D4-AF08-5E9AC52E868C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConditionalsAndCollections", "ConditionalsAndCollections\ConditionalsAndCollections.csproj", "{3EA3E686-1556-4948-A500-2A1C5F3D8667}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IceCreamShop", "IceCreamShop\IceCreamShop.csproj", "{A2249F0D-A1DC-42CF-A351-AF089ED9F34C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -50,6 +51,10 @@ Global
 		{3EA3E686-1556-4948-A500-2A1C5F3D8667}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3EA3E686-1556-4948-A500-2A1C5F3D8667}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3EA3E686-1556-4948-A500-2A1C5F3D8667}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2249F0D-A1DC-42CF-A351-AF089ED9F34C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2249F0D-A1DC-42CF-A351-AF089ED9F34C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2249F0D-A1DC-42CF-A351-AF089ED9F34C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2249F0D-A1DC-42CF-A351-AF089ED9F34C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
