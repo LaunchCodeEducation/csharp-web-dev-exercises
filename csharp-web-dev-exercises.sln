@@ -21,6 +21,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConditionalsAndCollections", "ConditionalsAndCollections\ConditionalsAndCollections.csproj", "{3EA3E686-1556-4948-A500-2A1C5F3D8667}"
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IceCreamShop", "IceCreamShop\IceCreamShop.csproj", "{A2249F0D-A1DC-42CF-A351-AF089ED9F34C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes-Part-2", "Classes-Part-2\Classes-Part-2.csproj", "{FB9669AF-7F8B-401B-A1E0-95BFFA4A18C1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{3EA3E686-1556-4948-A500-2A1C5F3D8667}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3EA3E686-1556-4948-A500-2A1C5F3D8667}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3EA3E686-1556-4948-A500-2A1C5F3D8667}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB9669AF-7F8B-401B-A1E0-95BFFA4A18C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB9669AF-7F8B-401B-A1E0-95BFFA4A18C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB9669AF-7F8B-401B-A1E0-95BFFA4A18C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB9669AF-7F8B-401B-A1E0-95BFFA4A18C1}.Release|Any CPU.Build.0 = Release|Any CPU
 		{A2249F0D-A1DC-42CF-A351-AF089ED9F34C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{A2249F0D-A1DC-42CF-A351-AF089ED9F34C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A2249F0D-A1DC-42CF-A351-AF089ED9F34C}.Release|Any CPU.ActiveCfg = Release|Any CPU
